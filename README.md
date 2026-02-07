@@ -1,4 +1,4 @@
-# Best-chrome-app-launcher-extensions-for-web-browsers
+# Chrome App Launcher
 
 <hr></hr>
 
